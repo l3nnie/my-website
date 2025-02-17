@@ -636,7 +636,7 @@ ${message}
         `);
 
         // Create and open mailto link
-        window.location.href = `mailto:fluffielisa36@gmail.com?subject=${emailSubject}&body=${emailBody}`;
+        window.location.href = `mailto:joykerry164@gmail.com?subject=${emailSubject}&body=${emailBody}`;
         
         // Reset form
         document.getElementById('contactForm').reset();
